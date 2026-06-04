@@ -123,11 +123,3 @@ player-engagement-kaggle/
 └── images/
     └── generated charts after running notebook
 ```
-
-## Resume Bullet
-
-Built a player engagement prediction and persona segmentation project using a Kaggle online gaming behaviour dataset, applying K-Means clustering and multi-class classification models to identify engagement drivers, validate model performance and recommend player retention actions.
-
-## Portfolio Summary
-
-Analysed online gaming behaviour data to create player personas and predict engagement level using Python, Scikit-learn, clustering and classification models. The project includes model validation, feature importance and business recommendations for improving player engagement.
